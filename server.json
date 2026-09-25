@@ -3,7 +3,7 @@
   "name": "io.github.pipeworx-io/arcgis-puyallup",
   "title": "Arcgis Puyallup",
   "description": "City of Puyallup GIS — Puyallup, Washington open geospatial data (ArcGIS).",
-  "version": "0.1.1",
+  "version": "0.1.2",
   "websiteUrl": "https://pipeworx.io/packs/arcgis-puyallup",
   "repository": {
     "url": "https://github.com/pipeworx-io/mcp-arcgis-puyallup",
