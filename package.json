@@ -1,6 +1,6 @@
 {
   "name": "@pipeworx/mcp-arcgis-puyallup",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "City of Puyallup GIS — Puyallup, Washington open geospatial data (ArcGIS).",
   "type": "module",
   "main": "lib/index.js",
@@ -27,7 +27,7 @@
     "mode": "gateway",
     "slug": "arcgis-puyallup",
     "gatewaySlug": "arcgis-puyallup",
-    "sourceHash": "v1-9b35d3f7964e8a602a9ab9b5430e57e741f456011bd0086216c0877d1b808f64",
-    "sourceCommit": "c6136b81713e72ccb22977ca0c0cd981f8c3f081"
+    "sourceHash": "v1-1f21286fd4caba5ee67d3bc12f997c5c816dc1a43cf676360487bb89df5517ea",
+    "sourceCommit": "5cb09714e895571153f3d9663c36ff0f140cadd6"
   }
 }
